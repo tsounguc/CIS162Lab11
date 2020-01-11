@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Checkerboard
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Checkerboard()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4
